@@ -1317,7 +1317,7 @@ d1_mini.menu.FlashSize.4M1M.build.spiffs_blocksize=8192
 d1_mini.menu.FlashSize.4M1M.build.spiffs_pagesize=256
 
 ##############################################################
-d1_mini_pro.name=WeMos D1 Pro
+d1_mini_pro.name=WeMos D1 Mini Pro
 
 d1_mini_pro.upload.tool=esptool
 d1_mini_pro.upload.speed=460800
