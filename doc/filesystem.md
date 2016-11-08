@@ -52,6 +52,7 @@ Olimex MOD-WIFI-ESP8266(-DEV)| 2M | 1M
 SparkFun Thing | 512k | 64k
 SweetPea ESP-210 | 4M | 1M, 3M
 WeMos D1 & D1 mini | 4M | 1M, 3M
+Wemos D1 mini Pro | 16M | 1M, 15M
 ESPDuino | 4M | 1M, 3M
 
 **Note:** to use any of file system functions in the sketch, add the following include to the sketch:
@@ -114,7 +115,7 @@ Opens a file. `path` should be an absolute path starting with a slash
 (e.g. `/dir/filename.txt`). `mode` is a string specifying access mode. It can be
 one of "r", "w", "a", "r+", "w+", "a+". Meaning of these modes is the same as
 for `fopen` C function.
-       
+
        r      Open text file for reading.  The stream is positioned at the
               beginning of the file.
 

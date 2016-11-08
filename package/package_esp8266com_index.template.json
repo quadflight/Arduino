@@ -48,7 +48,7 @@
             },
             {
               "name": "Phoenix 2.0"
-            },                        
+            },
             {
               "name": "SparkFun Thing"
             },
@@ -60,6 +60,9 @@
             },
             {
               "name": "WeMos D1 mini"
+            },
+            {
+              "name": "WeMos D1 mini Pro"
             },
             {
               "name": "ESPino (ESP-12 Module)"

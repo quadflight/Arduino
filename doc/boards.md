@@ -32,6 +32,7 @@ title: Supported Hardware
     * [boot mode](#boot-mode)
   * [WeMos D1](#wemos-d1)
   * [WeMos D1 mini](#wemos-d1-mini)
+  * [WeMos D1 mini Pro](#wemos-d1-mini-pro)
   * [ESPino by ThaiEasyElec](#espinotee)
 
 ## Adafruit HUZZAH ESP8266 (ESP-12)
@@ -292,6 +293,11 @@ Note that since ESP8285 has SPI flash memory internally connected in DOUT mode, 
 Product page: http://wemos.cc
 
 ## WeMos D1 mini
+Product page: http://wemos.cc
+
+## WeMos D1 mini Pro
+The D1 mini Pro is a slightly lighter variant on the D1 mini, with a new USB-to-UART IC (the *CP2104*) and 16MB Flash instead of the more common 4MB.
+
 Product page: http://wemos.cc
 
 ## ESPino (WROOM-02 Module) by ThaiEasyElec
